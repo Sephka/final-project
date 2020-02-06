@@ -2,9 +2,9 @@
 Freedom-Index project using Machine Learning
 
 ## Table of Contents
-  - [Description] #desc
-  - [What We used] #tech
-  - [Demo] #Demo
+  - [Description](#desc)
+  - [What We used](#tech)
+  - [Demo](#Demo)
   
 ## <a name="dec"></a> Description
 
